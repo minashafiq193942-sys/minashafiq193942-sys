@@ -1,81 +1,87 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mina-shafik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Mina%20Shafik&fontSize=70&animation=fadeIn" />
 </p>
 
-<h1 align="center"> Hi there, I'm Mina Shafik 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Student+at+HITU;Machine+Learning+Enthusiast;Future+AI+Engineer;Building+the+Future+with+Code" />
+</p>
 
-<img align="right" hspace="30"
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-     alt="AI Animation"
-     width="320"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=minashafiq193942-sys&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-- 🎓 AI Student at **Helwan International Technological University**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🌱 Currently learning: **Python, Data Structures, Machine Learning**
-- 💡 Interested in: **Deep Learning, Computer Vision, Automation**
-- 🛠 Skills: **Python, OOP, Git & GitHub, SQL (Basics)**
-- 📈 Always improving and building projects
-- 📫 Reach Me At: **(حط ايميلك هنا)**
-- 📍 Location: Egypt 🇪🇬  
-
-<br>
-<br>
+---
 
 ## 🚀 About Me
 
-I am an AI student focused on building real-world intelligent systems.  
-I believe in consistency, discipline, and continuous self-development.  
+I am a dedicated **Artificial Intelligence Student** at **Helwan International Technological University**. My journey is driven by a fascination with how machines learn and a commitment to building intelligent systems that solve real-world problems.
 
-> "Small daily improvements lead to massive long-term results."
-
----
-
-## 🧠 Current Goals
-
-- 🔹 Master Python for AI  
-- 🔹 Build Machine Learning Projects  
-- 🔹 Contribute to Open Source  
-- 🔹 Create an AI-based Graduation Project  
+- 🧠 **Focus:** Deep Learning, Neural Networks, and Data Science.
+- 🛠️ **Current Activity:** Mastering Python internals and ML algorithms.
+- ⚡ **Philosophy:** "Consistency beats motivation. Discipline creates results."
+- 📍 **Based in:** Cairo, Egypt 🇪🇬
 
 ---
 
-## 🏆 Projects (Coming Soon...)
+## 🛠 Tech Stack
 
-Soon I will upload:
-- 🤖 Machine Learning models
-- 📊 Data analysis projects
-- 🧠 AI experiments
-- 🛠 Python automation tools
+### 💻 Languages & Core
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
+  </a>
+</p>
 
----
+### 🤖 AI / Machine Learning & Data
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas" />
+  </a>
+</p>
 
-## 📊 GitHub Stats
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mina-shafik&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/mina-shafik?cardType=level&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-<img height=240 width=410 align="center" src="https://nirzak-streak-stats.vercel.app/?user=mina-shafik&theme=radical" />
-</td>
-</tr>
-</table>
+### 🔧 Tools & Environment
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,mysql,linux" />
+  </a>
+</p>
 
 ---
+
+## 📈 GitHub Ecosystem
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minashafiq193942-sys&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minashafiq193942-sys&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=minashafiq193942-sys&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Roadmap & Goals
+
+- [x] Master Python Fundamentals
+- [ ] Implement 10+ End-to-End ML Projects
+- [ ] Deep Dive into Computer Vision (OpenCV)
+- [ ] Contribute to major AI Open Source Libraries
+- [ ] Achieve Kaggle Expert Rank
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="left">
+<a href="mailto:minashafiq193942@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
 </p>
