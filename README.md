@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.5982276fd7240.gif" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minashafiq193942-sys&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4amZiaGZ6Zmt6eGZ6Zmt6eGZ6Zmt6eGZ6Zmt6eGZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
@@ -23,7 +19,6 @@ I am a dedicated **Artificial Intelligence Student** at **Helwan International T
 - 🧠 **Focus:** Deep Learning, Neural Networks, and Data Science.
 - 🛠️ **Current Activity:** Mastering Python internals and ML algorithms.
 - ⚡ **Philosophy:** "Consistency beats motivation. Discipline creates results."
-- 📍 **Based in:** Cairo, Egypt 🇪🇬
 
 ---
 
@@ -31,23 +26,12 @@ I am a dedicated **Artificial Intelligence Student** at **Helwan International T
 
 ### 💻 Languages & Core
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
 </p>
 
 ### 🤖 AI / Machine Learning & Data
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas" />
-  </a>
-</p>
-
-### 🔧 Tools & Environment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,mysql,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas" />
 </p>
 
 ---
@@ -55,8 +39,8 @@ I am a dedicated **Artificial Intelligence Student** at **Helwan International T
 ## 📈 GitHub Ecosystem
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minashafiq193942-sys&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minashafiq193942-sys&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=minashafiq193942-sys&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minashafiq193942-sys&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -65,25 +49,11 @@ I am a dedicated **Artificial Intelligence Student** at **Helwan International T
 
 ---
 
-## 🎯 Roadmap & Goals
-
-- [x] Master Python Fundamentals
-- [ ] Implement 10+ End-to-End ML Projects
-- [ ] Deep Dive into Computer Vision (OpenCV)
-- [ ] Contribute to major AI Open Source Libraries
-- [ ] Achieve Kaggle Expert Rank
-
----
-
 ## 🤝 Let's Connect!
 
 <p align="left">
 <a href="mailto:minashafiq193942@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
 </p>
 
 <p align="center">
