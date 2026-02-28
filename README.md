@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.5982276fd7240.gif" width="500" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=minashafiq193942-sys&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
